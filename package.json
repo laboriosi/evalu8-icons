@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/laboriosi/evalu8-ui-library.git"
+    "url": "git+https://github.com/laboriosi/evalu8-icons.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/laboriosi/evalu8-ui-library/issues"
+    "url": "https://github.com/laboriosi/evalu8-icons/issues"
   },
-  "homepage": "https://github.com/laboriosi/evalu8-ui-library#readme",
+  "homepage": "https://github.com/laboriosi/evalu8-icons#readme",
   "devDependencies": {
     "@commitlint/cli": "^16.2.4",
     "@commitlint/config-conventional": "^16.2.4",

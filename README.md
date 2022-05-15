@@ -1,27 +1,5 @@
 <h1 align="center">@laboriosi/evalu8-icons</h1>
 
-## How to run the storybook
-
-#### npm
-
-```
-npm install
-```
-
-```
-npm run storybook
-```
-
-#### yarn
-
-```
-yarn install
-```
-
-```
-yarn storybook
-```
-
 ## How to install
 
 #### 1. First, you need to add at the root of your project a .npmrc with follow content:

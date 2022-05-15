@@ -1,0 +1,57 @@
+{
+  "name": "@laboriosi/evalu8-icons",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack build",
+    "release": "standard-version",
+    "prepare": "husky install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laboriosi/evalu8-ui-library.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laboriosi/evalu8-ui-library/issues"
+  },
+  "homepage": "https://github.com/laboriosi/evalu8-ui-library#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^16.2.4",
+    "@commitlint/config-conventional": "^16.2.4",
+    "@svgr/webpack": "^6.2.1",
+    "@types/react": "^18.0.8",
+    "@types/react-dom": "^17.0.9",
+    "cross-env": "^7.0.3",
+    "husky": "^7.0.0",
+    "standard-version": "^9.3.2",
+    "webpack": "^5.72.1",
+    "webpack-cli": "^4.9.2"
+  },
+  "dependencies": {
+    "@mui/icons-material": "^5.6.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "files": [
+    "build"
+  ],
+  "optionalDependencies": {
+    "esbuild": "^0.14.39",
+    "fsevents": "^2.3.2"
+  }
+}
